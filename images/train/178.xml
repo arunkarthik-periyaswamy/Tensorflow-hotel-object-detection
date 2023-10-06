@@ -1,0 +1,50 @@
+<annotation>
+	<folder>proj images</folder>
+	<filename>178.jpg</filename>
+	<path>C:\Users\venka\Desktop\proj images\178.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CUP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1388</xmin>
+			<ymin>1514</ymin>
+			<xmax>1956</xmax>
+			<ymax>2129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CUP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2146</xmin>
+			<ymin>1164</ymin>
+			<xmax>2717</xmax>
+			<ymax>1725</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CUP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1240</xmin>
+			<ymin>1183</ymin>
+			<xmax>1662</xmax>
+			<ymax>1499</ymax>
+		</bndbox>
+	</object>
+</annotation>

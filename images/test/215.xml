@@ -1,0 +1,38 @@
+<annotation>
+	<folder>proj images</folder>
+	<filename>215.jpg</filename>
+	<path>C:\Users\venka\Desktop\proj images\215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JUG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1311</xmin>
+			<ymin>1439</ymin>
+			<xmax>1682</xmax>
+			<ymax>1769</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CUP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1257</xmin>
+			<ymin>1815</ymin>
+			<xmax>1385</xmax>
+			<ymax>1979</ymax>
+		</bndbox>
+	</object>
+</annotation>

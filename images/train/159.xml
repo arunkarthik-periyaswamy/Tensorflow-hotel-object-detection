@@ -1,0 +1,38 @@
+<annotation>
+	<folder>proj images</folder>
+	<filename>159.jpg</filename>
+	<path>C:\Users\venka\Desktop\proj images\159.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FLASK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1295</xmin>
+			<ymin>1573</ymin>
+			<xmax>2330</xmax>
+			<ymax>2702</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>JUG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>1260</ymin>
+			<xmax>1333</xmax>
+			<ymax>2567</ymax>
+		</bndbox>
+	</object>
+</annotation>

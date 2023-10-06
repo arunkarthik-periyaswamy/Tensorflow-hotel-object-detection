@@ -1,0 +1,38 @@
+<annotation>
+	<folder>proj images</folder>
+	<filename>157.jpg</filename>
+	<path>C:\Users\venka\Desktop\proj images\157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JUG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1362</xmin>
+			<ymin>609</ymin>
+			<xmax>2404</xmax>
+			<ymax>2309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>JUG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>193</ymin>
+			<xmax>1430</xmax>
+			<ymax>1709</ymax>
+		</bndbox>
+	</object>
+</annotation>

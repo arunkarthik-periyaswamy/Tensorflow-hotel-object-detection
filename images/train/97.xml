@@ -1,0 +1,26 @@
+<annotation>
+	<folder>proj images</folder>
+	<filename>97.jpg</filename>
+	<path>C:\Users\venka\Desktop\proj images\97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JUG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1615</xmin>
+			<ymin>2079</ymin>
+			<xmax>1851</xmax>
+			<ymax>2385</ymax>
+		</bndbox>
+	</object>
+</annotation>

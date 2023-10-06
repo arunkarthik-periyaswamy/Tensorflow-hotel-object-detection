@@ -1,0 +1,38 @@
+<annotation>
+	<folder>proj images</folder>
+	<filename>131.jpg</filename>
+	<path>C:\Users\venka\Desktop\proj images\131.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JUG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1645</xmin>
+			<ymin>1691</ymin>
+			<xmax>2923</xmax>
+			<ymax>3500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FLASK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1019</xmin>
+			<ymin>935</ymin>
+			<xmax>1680</xmax>
+			<ymax>2504</ymax>
+		</bndbox>
+	</object>
+</annotation>

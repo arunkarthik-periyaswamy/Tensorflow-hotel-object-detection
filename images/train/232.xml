@@ -1,0 +1,50 @@
+<annotation>
+	<folder>proj images</folder>
+	<filename>232.jpg</filename>
+	<path>C:\Users\venka\Desktop\proj images\232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JUG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>634</xmin>
+			<ymin>2629</ymin>
+			<xmax>884</xmax>
+			<ymax>2994</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CUP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1519</xmin>
+			<ymin>2879</ymin>
+			<xmax>1683</xmax>
+			<ymax>3060</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CUP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1692</xmin>
+			<ymin>3084</ymin>
+			<xmax>1873</xmax>
+			<ymax>3252</ymax>
+		</bndbox>
+	</object>
+</annotation>

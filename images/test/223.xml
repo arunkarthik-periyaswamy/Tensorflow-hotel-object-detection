@@ -1,0 +1,38 @@
+<annotation>
+	<folder>proj images</folder>
+	<filename>223.jpg</filename>
+	<path>C:\Users\venka\Desktop\proj images\223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CUP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>826</xmin>
+			<ymin>2481</ymin>
+			<xmax>945</xmax>
+			<ymax>2615</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CUP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>928</xmin>
+			<ymin>2400</ymin>
+			<xmax>1053</xmax>
+			<ymax>2515</ymax>
+		</bndbox>
+	</object>
+</annotation>
