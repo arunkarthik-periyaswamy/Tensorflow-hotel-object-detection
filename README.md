@@ -134,7 +134,7 @@ For any issues encountered during training or deployment, refer to the [TensorFl
 
 ## Technologies Used
 
-![Python Logo](https://www.clipartmax.com/png/middle/434-4343754_python-logo.png)
+![Python Logo](https://p7.hiclipart.com/preview/364/982/572/python-programming-language-computer-programming-language.jpg)
 ![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg)
 ![TFLite Logo](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images_archive/original_images/image1_v7xhr8h.png)
 
