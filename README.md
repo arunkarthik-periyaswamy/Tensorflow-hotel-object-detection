@@ -140,10 +140,11 @@ For any issues encountered during training or deployment, refer to the [TensorFl
 
 - **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **TensorFlow**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- **TensorFlow Object Detection API**: ![TensorFlow Object Detection API](https://img.shields.io/badge/TensorFlow_Object_Detection_API-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- **TensorFlow Lite (TFLite)**: ![TensorFlow Lite (TFLite)](https://img.shields.io/badge/TensorFlow_Lite_(TFLite)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- **Single Shot Multibox Detector (SSD)**: ![SSD](https://img.shields.io/badge/SSD-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- **MobileNet V2**: ![MobileNet V2](https://img.shields.io/badge/MobileNet_V2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **TensorFlow Object Detection API**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-API-orange)
+- **TensorFlow Lite (TFLite)**: ![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-TFLite-blue)
+- **Single Shot Multibox Detector (SSD)**: ![SSD](https://img.shields.io/badge/SSD-Algorithm-green)
+- **MobileNet V2**: ![MobileNet V2](https://img.shields.io/badge/MobileNet%20V2-Neural%20Network-brightgreen)
+
 
 
 ---
