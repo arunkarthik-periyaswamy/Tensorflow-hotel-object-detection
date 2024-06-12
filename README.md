@@ -1,4 +1,4 @@
-Object Detection Code Using TensorFlow Object Detection API
+<!--Object Detection Code Using TensorFlow Object Detection API
 This code trains and deploys an object detection model using the TensorFlow Object Detection API. The model is trained to detect hotel items like a jug, cup, and flask.
 
 Abstract
@@ -53,7 +53,98 @@ The following example shows how to train and deploy the model:
 python train.py
 
 # Deploy the model.
+
+
 python deploy.py --model_path trained_model.pb --image_path image.jpg --output_path output.jpg
 Troubleshooting
 
 If you are having problems training or deploying the model, please refer to the TensorFlow object detection API documentation: https://github.com/tensorflow/models/tree/master/research/object_detection.
+-->
+
+# Advanced Object Detection for Hotel Items using TensorFlow
+
+## Abstract
+
+Object detection is extensively applied in various domains such as vehicle detection, face recognition, autonomous driving, and pedestrian monitoring. TensorFlow's Object Detection API is a robust tool that empowers users to rapidly develop and deploy sophisticated image recognition applications. Object detection encompasses not only classifying and recognizing objects within an image but also localizing these objects and delineating them with bounding boxes. This project primarily focuses on configuring the environment and utilizing TensorFlow Lite (TFLite) models for detecting hotel items such as jugs, cups, and flasks. The TensorFlow Object Detection API has been leveraged for model training, specifically employing the Single Shot Multibox Detector (SSD) with MobileNet V2 architecture.
+
+## Usage
+
+### Training the Model
+To train the object detection model, execute the following command:
+
+```bash
+python train.py
+```
+
+### Deploying the Model
+To deploy the trained model, execute the following command:
+
+```bash
+python deploy.py
+```
+
+## Prerequisites
+
+- **TensorFlow**: A comprehensive open-source platform for machine learning.
+- **TensorFlow Object Detection API**: A library for training and deploying object detection models.
+
+### Installation
+To install the TensorFlow Object Detection API, follow the instructions provided in the [TensorFlow Object Detection API documentation](https://github.com/tensorflow/models/tree/master/research/object_detection).
+
+## Training Process
+
+To train the model, a pipeline configuration file must be created. This file defines the model architecture, training parameters, and input/output configurations.
+
+With the pipeline configuration file in place, initiate the training process using the `train.py` script. The script accepts the following parameters:
+
+- **master**: The TensorFlow master server name.
+- **task**: The task ID.
+- **num_clones**: Number of model replicas per worker.
+- **clone_on_cpu**: Deploy clones on CPU.
+- **worker_replicas**: Number of worker replicas.
+- **ps_tasks**: Number of parameter server tasks.
+- **train_dir**: Directory for saving checkpoints and training summaries.
+- **pipeline_config_path**: Path to the `TrainEvalPipelineConfig` configuration file.
+- **train_config_path**: Path to the `TrainConfig` configuration file.
+- **input_config_path**: Path to the `InputReader` configuration file.
+- **model_config_path**: Path to the `DetectionModel` configuration file.
+
+## Deployment Process
+
+To deploy the model, use the `deploy.py` script with the following parameters:
+
+- **model_path**: Path to the trained model.
+- **image_path**: Path to the image for detection.
+- **output_path**: Path to save the output image with detected objects.
+
+## Example
+
+### Training the Model
+```bash
+python train.py
+```
+
+### Deploying the Model
+```bash
+python deploy.py --model_path trained_model.pb --image_path image.jpg --output_path output.jpg
+```
+
+## Troubleshooting
+For any issues encountered during training or deployment, refer to the [TensorFlow Object Detection API documentation](https://github.com/tensorflow/models/tree/master/research/object_detection).
+
+## Technologies Used
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+![TensorFlow Logo](https://www.tensorflow.org/images/tf_logo_social.png)
+![TFLite Logo](https://www.tensorflow.org/lite/images/logo.png)
+
+- **Python**: The programming language used for scripting.
+- **TensorFlow**: The machine learning framework used for building and training models.
+- **TensorFlow Object Detection API**: The specific API used for object detection tasks.
+- **TensorFlow Lite (TFLite)**: The lightweight version of TensorFlow used for deploying models on mobile and edge devices.
+- **Single Shot Multibox Detector (SSD)**: The specific object detection algorithm employed.
+- **MobileNet V2**: The neural network architecture used within the SSD framework.
+
+---
+
+This document provides a comprehensive guide to setting up, training, and deploying an object detection model using TensorFlow's Object Detection API. It includes all necessary steps and commands to ensure a smooth implementation of advanced object detection for specific hotel items.
