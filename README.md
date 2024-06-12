@@ -62,7 +62,9 @@ If you are having problems training or deploying the model, please refer to the 
 -->
 
 # Advanced Object Detection for Hotel Items using TensorFlow
-
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/400px-Python_logo_and_wordmark.svg.png)
+![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/400px-TensorFlow_logo.svg.png)
+![TFLite Logo](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images_archive/original_images/image1_v7xhr8h.png)
 <img src="https://github.com/arunkarthik-periyaswamy/Tensorflow-hotel-object-detection/blob/master/hotel_testing_output.png?raw=true" alt="Python Logo" style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
 
 ## Abstract
@@ -135,10 +137,6 @@ python deploy.py --model_path trained_model.pb --image_path image.jpg --output_p
 For any issues encountered during training or deployment, refer to the [TensorFlow Object Detection API documentation](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
 ## Technologies Used
-
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/400px-Python_logo_and_wordmark.svg.png)
-![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/400px-TensorFlow_logo.svg.png)
-![TFLite Logo](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images_archive/original_images/image1_v7xhr8h.png)
 
 - **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **TensorFlow**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
