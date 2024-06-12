@@ -136,7 +136,7 @@ For any issues encountered during training or deployment, refer to the [TensorFl
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 ![TensorFlow Logo](https://www.tensorflow.org/images/tf_logo_social.png)
-![TFLite Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.googleblog.com%2Fannouncing-tensorflow-lite%2F&psig=AOvVaw3tVQNRPwdVf67QMCfRPtcU&ust=1718304586770000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDC3sfd1oYDFQAAAAAdAAAAABAE)
+![TFLite Logo](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images_archive/original_images/image1_v7xhr8h.png)
 
 - **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **TensorFlow**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
