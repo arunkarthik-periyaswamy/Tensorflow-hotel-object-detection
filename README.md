@@ -63,6 +63,8 @@ If you are having problems training or deploying the model, please refer to the 
 
 # Advanced Object Detection for Hotel Items using TensorFlow
 
+<img src="https://github.com/arunkarthik-periyaswamy/Tensorflow-hotel-object-detection/blob/master/hotel_testing_output.png?raw=true" alt="Python Logo" style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
+
 ## Abstract
 
 Object detection is extensively applied in various domains such as vehicle detection, face recognition, autonomous driving, and pedestrian monitoring. TensorFlow's Object Detection API is a robust tool that empowers users to rapidly develop and deploy sophisticated image recognition applications. Object detection encompasses not only classifying and recognizing objects within an image but also localizing these objects and delineating them with bounding boxes. This project primarily focuses on configuring the environment and utilizing TensorFlow Lite (TFLite) models for detecting hotel items such as jugs, cups, and flasks. The TensorFlow Object Detection API has been leveraged for model training, specifically employing the Single Shot Multibox Detector (SSD) with MobileNet V2 architecture.
