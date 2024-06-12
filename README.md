@@ -65,7 +65,7 @@ If you are having problems training or deploying the model, please refer to the 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/400px-Python_logo_and_wordmark.svg.png)
 ![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/400px-TensorFlow_logo.svg.png)
 ![TFLite Logo](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images_archive/original_images/image1_v7xhr8h.png)
-<img src="https://github.com/arunkarthik-periyaswamy/Tensorflow-hotel-object-detection/blob/master/hotel_testing_output.png?raw=true" alt="Python Logo" style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
+
 
 ## Abstract
 
@@ -132,6 +132,9 @@ python train.py
 ```bash
 python deploy.py --model_path trained_model.pb --image_path image.jpg --output_path output.jpg
 ```
+![Hotel Object Detection Output](https://github.com/arunkarthik-periyaswamy/Tensorflow-hotel-object-detection/blob/master/hotel_testing_output.png?raw=true)
+
+*Hotel Object Detection Output*
 
 ## Troubleshooting
 For any issues encountered during training or deployment, refer to the [TensorFlow Object Detection API documentation](https://github.com/tensorflow/models/tree/master/research/object_detection).
