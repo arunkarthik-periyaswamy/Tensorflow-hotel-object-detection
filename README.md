@@ -138,12 +138,13 @@ For any issues encountered during training or deployment, refer to the [TensorFl
 ![TensorFlow Logo](https://www.tensorflow.org/images/tf_logo_social.png)
 ![TFLite Logo](https://www.tensorflow.org/lite/images/logo.png)
 
-- **Python**: The programming language used for scripting.
-- **TensorFlow**: The machine learning framework used for building and training models.
-- **TensorFlow Object Detection API**: The specific API used for object detection tasks.
-- **TensorFlow Lite (TFLite)**: The lightweight version of TensorFlow used for deploying models on mobile and edge devices.
-- **Single Shot Multibox Detector (SSD)**: The specific object detection algorithm employed.
-- **MobileNet V2**: The neural network architecture used within the SSD framework.
+- **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **TensorFlow**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **TensorFlow Object Detection API**: ![TensorFlow Object Detection API](https://img.shields.io/badge/TensorFlow_Object_Detection_API-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **TensorFlow Lite (TFLite)**: ![TensorFlow Lite (TFLite)](https://img.shields.io/badge/TensorFlow_Lite_(TFLite)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **Single Shot Multibox Detector (SSD)**: ![SSD](https://img.shields.io/badge/SSD-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **MobileNet V2**: ![MobileNet V2](https://img.shields.io/badge/MobileNet_V2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 ---
 
